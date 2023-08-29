@@ -38,9 +38,17 @@ I used the Update function to replace the null values in the category with N/A, 
 
 ![](remove-null.png)
 
-- Unwanted special characters
+- **Unwanted special characters and Proper Formatting**
+  
+  I replaced unwanted characters in the Geolocation table using the update/replace function, and I also capitalized the first letter of the geolocation city column to give the right formatting with the substring function
 
-- Wrong Data Types
+![](replace-unwanted.png)
+
+- **Wrong Data Types**
+
+  I noticed this issue in some columns of the orders, payment, reviews, and items table and I addressed this issue by altering the the data types of the affected columns in the respective tables
+
+  ![](change-datatypes.png)
 
 - Errors in spelling and update of spellings
 
