@@ -7,5 +7,6 @@ I participated in a data challenge hosted by the Twitter data community in April
 - Analyze the data in order to answer the problem statement 
 - Make recommendations to the Olist corporation.
 
-## OBJECTIVE OF THIS ANALYSIS
+## Dataset Description
+This challenge's dataset was obtained from the KAGGLE website. You can access the dataset [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) . It contains statistics on 100k orders placed on several Brazilian marketplaces between 2016 and 2018. 
 
