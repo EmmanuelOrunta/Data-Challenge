@@ -50,7 +50,8 @@ I used the Update function to replace the null values in the category with N/A, 
 
   ![](change-datatypes.png)
 
-- Errors in spelling and update of spellings
+- Updating of Column Names
+- Replacing Null Values
 
 
 
