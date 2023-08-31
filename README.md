@@ -51,6 +51,10 @@ I used the Update function to replace the null values in the category with N/A, 
   ![](change-datatypes.png)
 
 - Updating of Column Names
+  There are records in the category column that I had to update with English-translated versions of the Portuguese strings from the category_name_translatn table, but after confirming the distinct records from the translation table, I discovered three category records in the products table that I did not find in the translation table.
+The first is pc_gamer, the second is portateis_cozinha_e_preparadores_de_alimentos, and the third is the Null entry from the products table.
+
+
 - Replacing Null Values
 
 
