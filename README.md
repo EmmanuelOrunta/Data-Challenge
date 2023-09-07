@@ -100,7 +100,8 @@ The most popular product category on Olist is "bed bath table," as they made the
 
 4. What is the average order value (AOV) on Olist, and how does this vary by product category or payment method?
 
-On Olist, the average order value (AOV) across all orders is roughly $153.4. 
+On Olist, the average order value (AOV) across all orders is roughly $153.4. When payment methods were separated, voucher payments had the lowest AOV with credit card and boleto payments boasting the highest AOV. Furthermore, when the AOV was calculated by product category, PCs had the greatest AOV, followed by fixed telephony.
+
 
  product category             |   payment category
 :----------------------------:|:------------------------: 
