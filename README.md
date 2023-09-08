@@ -107,6 +107,8 @@ On Olist, the average order value (AOV) across all orders is roughly $153.4. Whe
 :----------------------------:|:------------------------: 
  ![](question-4a.png)         |    ![](question-4b.png)
 
+  How many sellers are active on Olist, and how does this number change over time?
+
 
 
 
