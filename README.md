@@ -109,6 +109,6 @@ On Olist, the average order value (AOV) across all orders is roughly $153.4. Whe
 
 5. How many sellers are active on Olist, and how does this number change over time?
 
-There were 3095 active sellers on Olist. The year with the most active sellers was 2018, with 2,383, followed by 1,784 in 2017, and 145 in 2016. On a quarterly basis, Olist saw a growth of active sellers in most quarters, with the exception of the third quarter of 2018 (Q3), when it had 52 fewer vendors than the previous quarter (Q2), with 1,680 sellers in Q2 and 1,628 sellers in Q3.
+There were 3095 active sellers on Olist. The year with the most active sellers was 2018, with 2,383, followed by 1,784 in 2017, and 145 in 2016. On a general note, Olist saw a growth in the number of orders as the number of active sellers increased by the year, which also led to an increase in the number of products listed for sale on olist.
 
 
