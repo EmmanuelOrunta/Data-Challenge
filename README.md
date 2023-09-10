@@ -112,4 +112,6 @@ On Olist, the average order value (AOV) across all orders is roughly $153.4. Whe
 There were 3095 active sellers on Olist. The year with the most active sellers was 2018, with 2,383, followed by 1,784 in 2017, and 145 in 2016. On a general note, Olist saw a growth in the number of orders as the number of active sellers increased by the year, which also led to an increase in the number of products listed for sale on olist.
 
 6. What is the distribution of seller ratings on Olist, and how does this impact sales performance?
+  
+It is possible to assume that merchants with review scores of 4 and 5 received the most orders, indicating positive sales success. Furthermore, vendors with higher review scores made greater total revenue, indicating a link between good feedback and increased sales. However, it is worth noting that sellers with a review score of 1 had the highest average revenue, demonstrating that variables other than review scores may influence sales performance.
 
