@@ -129,3 +129,11 @@ The average customer rating for most products sold on olist was generally high w
  Product Sold                 |   Revenue generated
 :----------------------------:|:------------------------: 
  ![](question-8a.png)         |    ![](question-8b.png)
+
+
+9. What is the average order cancellation rate on Olist, and how does this impact seller performance?
+
+The average order cancellation rate on Olist is 0.63% (less than 1%), indicating that there is a high degree of customer satisfaction and that the Olist platform is generally efficient. Customers receive the things they bought, and there are seldom problems with the entire buying procedure. This could lead to enhanced client loyalty and a better overall reputation for the organization, but one major finding was a poor customer retention rate. Olist still has work to do in converting first-time customers into regular customers, as customers may have received better discounts from competitors or received better customer service from other organizations.
+
+
+10. What are the top-selling products on Olist, and how have their sales trends changed over time?
