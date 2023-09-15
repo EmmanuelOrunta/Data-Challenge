@@ -137,3 +137,7 @@ The average order cancellation rate on Olist is 0.63% (less than 1%), indicating
 
 
 10. What are the top-selling products on Olist, and how have their sales trends changed over time?
+
+The top selling products on Olist were Bed Bath Table, Computer Accessories, Health Beauty, Furniture Decor etc. With bed_bath_table generating the most revenue overall, computer accessories grew at the fastest pace in the first two years of operation. It is critical to highlight that this is a significant category with the highest average order value. To optimize profit and improve sales performance, Olist must offer strategic sales incentives such as volume discounts, cross-sell, and up-sell.
+
+![](question-10.png)
