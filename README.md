@@ -150,3 +150,8 @@ Credit cards are the most popular payment method among Olist consumers. Credit c
 Average Order Value           |   Total Orders
 :----------------------------:|:------------------------: 
  ![](question-11a.png)        |    ![](question-11b.png)
+
+
+12. How do customer reviews and ratings affect sales and product performance on Olist?
+
+The solution to question number 6 has a similar view.
