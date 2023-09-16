@@ -163,4 +163,9 @@ Fixed Telephony has the highest profit margin (72.65%) of any product category, 
 
 ![](question-13.png)
 
+14. Geolocation having high customer density. Calculate customer retention rate according to geolocations.
 
+
+Olist had the most customer representation in Sao Paolo. Sao Paolo accounts for over half of all Olist customers. However, Acre and Rondônia are the top two states in terms of client retention, Rio de Janeiro ranks fourth in terms of customer retention.
+
+![](question-14.png)
