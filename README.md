@@ -155,3 +155,12 @@ Average Order Value           |   Total Orders
 12. How do customer reviews and ratings affect sales and product performance on Olist?
 
 The solution to question number 6 has a similar view.
+
+
+13. Which product categories have the highest profit margins on Olist, and how can the company increase profitability across different categories?
+
+Fixed Telephony has the highest profit margin (72.65%) of any product category, while home_appliances_2 are the most affordable.
+
+![](question-13.png)
+
+
