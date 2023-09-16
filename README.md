@@ -141,3 +141,12 @@ The average order cancellation rate on Olist is 0.63% (less than 1%), indicating
 The top selling products on Olist were Bed Bath Table, Computer Accessories, Health Beauty, Furniture Decor etc. With bed_bath_table generating the most revenue overall, computer accessories grew at the fastest pace in the first two years of operation. It is critical to highlight that this is a significant category with the highest average order value. To optimize profit and improve sales performance, Olist must offer strategic sales incentives such as volume discounts, cross-sell, and up-sell.
 
 ![](question-10.png)
+
+
+11. Which payment methods are most commonly used by Olist customers, and how does this vary by product category or geographic region?
+
+Credit cards are the most popular payment method among Olist consumers. Credit cards are the most commonly used payment method across all categories and geographies.
+
+Average Order Value           |   Total Orders
+:----------------------------:|:------------------------: 
+ ![](question-11a.png)        |    ![](question-11b.png)
