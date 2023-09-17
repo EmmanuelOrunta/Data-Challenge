@@ -183,3 +183,4 @@ Olist had the most customer representation in Sao Paolo. Sao Paolo accounts for 
 5. Repeat purchases were made by 2997 customers. Total sales were accounted for by around 6% of returning consumers. The average order cancellation rate on Olist is 0.63% (less than 1%), indicating that there is a high degree of customer satisfaction and that the Olist platform is generally efficient. Customers receive the things they bought, and there are seldom problems with the entire buying procedure.
 
 ## RECOMMENDATIONS
+1. Olist can adopt dynamic pricing methods for low-profit margin products like home appliances, such as home appliances, by offering discounts during sluggish periods and boosting prices during high seasons to improve profitability and optimize sales.
