@@ -174,6 +174,6 @@ Olist had the most customer representation in Sao Paolo. Sao Paolo accounts for 
 ## INSIGHTS
 1. Olist makes more money not by selling a few things frequently, but by offering a variety of products. Olist revenue has steadily increased over the years, but it peaked in 2018 (particularly during the Black Friday period, the last week of November).
 
-2. Computers were the product category with the highest average order value on the Olist E-commerce platform. Based on the number of orders placed, Bed Bath Table is the most popular product category on Olist.
+2. Computers were the product category with the highest average order value on the Olist E-commerce platform. Based on the number of orders placed, Bed Bath Table is the most popular product category on Olist. While the bed_bath_table category had the highest no of products purchased, it didn't translate into a better revenue-to-order count ratio (i.e. AOV). This means customers purchased more bed_bath_table items but spent more money on average on expensive items like computers.
 
 3.
