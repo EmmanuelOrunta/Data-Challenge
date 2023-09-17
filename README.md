@@ -184,3 +184,5 @@ Olist had the most customer representation in Sao Paolo. Sao Paolo accounts for 
 
 ## RECOMMENDATIONS
 1. Olist can adopt dynamic pricing methods for low-profit margin products like home appliances, such as home appliances, by offering discounts during sluggish periods and boosting prices during high seasons to improve profitability and optimize sales.
+
+2. The customer cancellation rate is low, as is the customer retention rate. Olist will need to implement tactics to increase client retention by offering a wider range of items and investigating their customer service experience, as some customers may have been turned off by their service. They should also use discounting techniques and other sales promotion approaches, such as volume discounts on laptops, their accessories, and other products with a high average order value, this will ensure that they have a competitive price in the market.
