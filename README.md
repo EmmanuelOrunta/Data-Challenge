@@ -172,3 +172,6 @@ Olist had the most customer representation in Sao Paolo. Sao Paolo accounts for 
 
 
 ## INSIGHTS
+1. Olist makes more money not by selling a few things frequently, but by offering a variety of products. Olist revenue has steadily increased over the years, but it peaked in 2018 (particularly during the Black Friday period, the last week of November).
+
+2. 
