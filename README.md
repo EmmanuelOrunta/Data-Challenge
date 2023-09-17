@@ -176,3 +176,4 @@ Olist had the most customer representation in Sao Paolo. Sao Paolo accounts for 
 
 2. Computers were the product category with the highest average order value on the Olist E-commerce platform. Based on the number of orders placed, Bed Bath Table is the most popular product category on Olist.
 
+3.
