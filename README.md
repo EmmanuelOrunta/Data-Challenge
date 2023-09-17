@@ -181,3 +181,5 @@ Olist had the most customer representation in Sao Paolo. Sao Paolo accounts for 
 4. Highly rated products produced the most money and accounted for more than 80% of orders placed on the Olist platform, indicating outstanding sales performance. Despite the company's improved AOV on costlier items, indications imply that the lowest-rated products are the most expensive. This situation might suggests that purchasers choose less expensive products with higher ratings and spend more money on more expensive things on average.
 
 5. Repeat purchases were made by 2997 customers. Total sales were accounted for by around 6% of returning consumers. The average order cancellation rate on Olist is 0.63% (less than 1%), indicating that there is a high degree of customer satisfaction and that the Olist platform is generally efficient. Customers receive the things they bought, and there are seldom problems with the entire buying procedure.
+
+## RECOMMENDATIONS
